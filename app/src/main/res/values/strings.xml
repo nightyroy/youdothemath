@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Do Your Math!</string>
+	<string name="menu_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="help_info">You Do The Math! is an math game.\n\nChoose Easy, Medium or Hard level to begin.\n\nAnswer the question by typing on the number pad displayed and pressing enter. Press the C button to clear the answer. Each question may be different addition, subtraction, multiplication or division.\n\nYour best scores will automatically be saved into the High Scores.</string>
+	<string name="high_scores">HIGH SCORES</string>
+	<string name="operators">operators</string>
+	<string name="play_cat_meow">Play cat meow</string>
+
+</resources>
